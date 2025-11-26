@@ -1,0 +1,29 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# Large data files (never push)
+*.xlsx
+*.csv
+*.json
+*.parquet
+*.pkl 
+*.npy
+
+# Model files
+*.pyd
+*.dll
+*.bin
+*.sav
+
+# Outputs
+outputs/
+data/
